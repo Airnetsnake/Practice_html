@@ -1,0 +1,29 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1.6;
+	color: #323232;
+	margin: 10px;
+	}
+p {
+	text-align: justify;
+	text-indent: 2em;
+	}
+hr {
+	height: 3px;
+	border: none;
+	background: #323232;
+	}
+ a {
+	font-weight: bolder;
+	}
+ a:visited {
+	color: #000088;
+	}
+ a:hover {
+	color: #EE9999;
+	text-decoration: underline;
+	}
+a:active {
+	color: #9999FF;
+	}

@@ -1,0 +1,28 @@
+﻿table {
+	border: 1px solid #212121;
+	border-collapse: collapse;
+	}
+th {
+	border: 1px solid #212121;
+	}
+td {
+	border: 1px solid #212121;
+	}
+table.elements {
+	width : 500px;
+	}
+.elements td{
+	width: 50%;
+	}
+table.editors {
+	width : 100%;
+	}
+.class type {
+	width: 100px;
+	}
+.class title {
+	width: 150px;
+	}
+table.css-levels {
+	width : auto;
+	}
